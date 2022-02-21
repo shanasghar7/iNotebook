@@ -1,0 +1,110 @@
+// React
+
+// To Create New App
+npx create-react-app APP_NAME
+
+// For installing or Re-installing Node Modules
+npm install
+
+// Start App
+npm start
+npm run start
+
+// For Routing
+npm install react-router-dom
+
+// For Infinite Scroll
+npm i react-infinite-scroll-component
+                OR
+npm install --save react-infinite-scroll-component
+
+// For Top Loader
+npm i react-top-loading-bar
+
+// GIT
+
+git init
+
+// Only First Time
+git config --global user.email "shanasghar7@gmail.com"
+git config --global user.name "Shan"
+
+git add .
+git commit -m "created repository"
+git commit -m "updated repository"
+
+// Only First Time
+git remote add origin https://github.com/shanasghar7/iNotebook.git
+
+git push -u origin master
+git push
+
+git pull
+
+// Switch Branch
+git checkout Shan
+
+// Clones to project files to local
+git clone https://github.com/shanasghar7/iNotebook.git
+
+// Get Info about branches etc
+git status
+
+
+
+// VS Code Extensions
+
+Name: Auto Rename Tag
+Id: formulahendry.auto-rename-tag
+Description: Auto rename paired HTML/XML tag
+Version: 0.1.9
+Publisher: Jun Han
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+
+Name: Bracket Pair Colorizer
+Id: coenraads.bracket-pair-colorizer
+Description: A customizable extension for colorizing matching brackets
+Version: 1.0.62
+Publisher: CoenraadS
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+
+
+Name: ES7+ React/Redux/React-Native snippets
+Id: dsznajder.es7-react-js-snippets
+Description: Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+Version: 4.1.0
+Publisher: dsznajder
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+Name: Live Server
+Id: ritwickdey.liveserver
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+Version: 5.7.4
+Publisher: Ritwick Dey
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+
+Name: Material Icon Theme
+Id: pkief.material-icon-theme
+Description: Material Design Icons for Visual Studio Code
+Version: 4.12.1
+Publisher: Philipp Kief
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
+Name: Prettier - Code formatter
+Id: esbenp.prettier-vscode
+Description: Code formatter using prettier
+Version: 9.1.0
+Publisher: Prettier
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+
+Name: Thunder Client
+Id: rangav.vscode-thunder-client
+Description: Lightweight Rest API Client for VS Code
+Version: 1.11.0
+Publisher: Ranga Vadhineni
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
