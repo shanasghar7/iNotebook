@@ -1,0 +1,38 @@
+// Check Node Version
+node -v
+
+// Start Node JS
+node
+
+// Run File
+node app.js
+
+// Run with nodemon
+npm run dev    OR     nodemon app.js
+
+// Initialize NPM
+npm init
+
+// For installing or Re-installing Node Modules
+npm i
+
+// Install Express Server
+npm install express
+
+// Install Middleware
+npm i morgan
+
+// Install for Database Connectivity
+npm i mongoose
+
+// Install NodeMon for saving changes on server
+npm i -D nodemon
+
+// Install for .env file global variable declaration
+npm i dotenv
+
+// Install for parsing
+npm i body-parser
+
+// Install Express for validations
+npm i express-validator
