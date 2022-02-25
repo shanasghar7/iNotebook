@@ -35,4 +35,10 @@ npm i dotenv
 npm i body-parser
 
 // Install Express for validations
-npm i express-validator
+npm install --save express-validator
+
+// Install bcryptjs for Password Hashing with Salt
+npm i bcryptjs
+
+// Install jsonwebtoken for Token Authentication
+npm i jsonwebtoken
